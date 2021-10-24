@@ -1468,6 +1468,10 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
   <br />
 </h1>
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/119279021-ea6b5000-bbdd-11eb-9f59-5251fc3ac751.png">
+  <br />
+</p>
 
 ## Game Engines
 
@@ -2161,6 +2165,12 @@ SteamVR Home
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/138614033-5a32eb70-31f4-4bd0-8c46-3ede505ccca8.png">
 <br />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/138614041-1877dd8c-8ff6-4e63-9a94-2390ac72a8f3.png">
+<br />
+Apple M1/M1 Pro/M1 Max Architectures.
 </p>
 
 [Does it ARM? Apps that are reported to support Apple Silicon](https://doesitarm.com)
