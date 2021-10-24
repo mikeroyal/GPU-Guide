@@ -4,7 +4,7 @@
   GPU Guide
 </h1>
 
-#### A guide covering how a GPU works including the applications, libraries, hardware and tools giving you a better understanding of GPU-based tasks work in embedded systems, mobile phones, personal computers, professional workstations, and game consoles.
+#### A guide covering how a GPU works including the applications, libraries, hardware, and tools. It will also give you a better understanding of how GPU-based tasks work in embedded systems, mobile phones, personal computers, professional workstations, and game consoles.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
