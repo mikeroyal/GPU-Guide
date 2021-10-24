@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/138614121-28110c11-cc0b-4115-8335-8cb30a6bfe32.png">
 <br />
-CPU vs GPU
+How the CPU and GPU work together when running application code.
 </p>
 
 <p align="center">
