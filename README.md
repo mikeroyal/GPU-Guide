@@ -4,6 +4,10 @@
   GPU Guide
 </h1>
 
+#### A guide covering how a GPU works including the applications, libraries, hardware and tools that will make you a better and more efficient with your development of GPU based tasks.
+
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/138614110-fc44b809-0239-423d-8e24-e0b85549613b.png">
 <br />
@@ -20,10 +24,6 @@ How the CPU and GPU work together when running application code.
 <br />
 Unified Memory Architecture
 </p>
-
-#### A guide covering GPU including the applications, libraries and tools that will make you a better and more efficient with your development of GPU based tasks.
-
-**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 
 # Table of Contents
