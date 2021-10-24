@@ -59,15 +59,15 @@ Unified Memory Architecture
     - Mirrors: Geometric optics
     - Lenses
 
-7. [Linear Algebra](https://github.com/mikeroyal/GPU-Computing-Guide#Linear-Algebra)
+7. [Linear Algebra](https://github.com/mikeroyal/GPU-Guide#Linear-Algebra)
 
 8. [Virtualization](https://github.com/mikeroyal/GPU-Guide#virtualization)
 
-9. [Parallel Computing](https://github.com/mikeroyal/GPU-Computing-Guide#Parallel-Computing)
+9. [Parallel Computing](https://github.com/mikeroyal/GPU-Guide#Parallel-Computing)
 
 10. [OpenCL Development](https://github.com/mikeroyal/GPU-Guide#opencl-development)
 
-11. [CUDA Development](https://github.com/mikeroyal/GPU-Computing-Guide#cuda-development)
+11. [CUDA Development](https://github.com/mikeroyal/GPU-Guide#cuda-development)
 
 12. [Algorithms](https://github.com/mikeroyal/GPU-Guide#algorithms)
 
@@ -87,9 +87,9 @@ Unified Memory Architecture
 
 20. [DirectX Development](https://github.com/mikeroyal/GPU-Guide#directx-development)
 
-21. [Professional Audio/Video Development](https://github.com/mikeroyal/GPU-Guide#professional-audio-video-development)
+21. [Professional Audio/Video Development](https://github.com/mikeroyal/GPU-Guide#professional-audiovideo-development)
 
-22. [3D Graphics & Design](https://github.com/mikeroyal/GPU-Guide#3d-graphics--design)
+22. [3D Graphics & Design](https://github.com/mikeroyal/GPU-Guide#3d-graphics-and-design)
 
 23. [Apple Silicon](https://github.com/mikeroyal/GPU-Guide#Apple-Silicon)
 
