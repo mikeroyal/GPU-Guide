@@ -117,15 +117,23 @@ Unified Memory Architecture
 
 [Video Random Access Memory (VRAM)](https://en.wikipedia.org/wiki/VRAM) is the RAM allocated to store image or graphics related data. It functions in the same way as RAM, storing specific data for easier access and performance. Image data is first read by the processor and written on the VRAM. It is then converted by a [RAMDAC](https://en.wikipedia.org/wiki/RAMDAC) or a RAM digital-to-analog converter and display as graphics output.
 
+[Graphics Double Data Rate (GDDR) SDRAM](https://en.wikipedia.org/wiki/GDDR6_SDRAM#GDDR6X) is a type of synchronous graphics random-access memory (SGRAM) with a high bandwidth ("double data rate") interface designed for use in graphics cards, game consoles, and high-performance computing.
+
 [Integrated Graphics Processing Unit (IGPU)](https://en.wikipedia.org/wiki/Graphics_processing_unit#Integrated_graphics_processing_unit) is a component built on the same die (integrated circuit) with the CPU ([AMD Ryzen APU](https://www.amd.com/en/processors/ryzen-with-graphics) or [Intel HD Graphics](https://en.wikipedia.org/wiki/Intel_Graphics_Technology)) that utilizes a portion of the computer's system RAM rather than dedicated graphics memory.
+
+[Tensor](https://en.wikipedia.org/wiki/Tensor) is an algebraic object that describes a multilinear relationship between sets of algebraic objects related to a vector space.Objects that tensors may map between vectors, scalars, and other tensors.
+
+[Tensors](https://www.tensorflow.org/guide/tensor) are multi-dimensional arrays with a uniform type (called a dtype).
+
+[Tensor Cores](https://www.nvidia.com/en-us/data-center/tensor-cores/) are an AI inference accelerator in NVIDIA GPUs that provide an order-of-magnitude higher performance with reduced precisions like TF32, bfloat16, FP16, INT8, INT4, and FP64, to accelerate scientific computing with the highest accuracy needed.
+
+[RT (Real-time ray tracing) Cores](https://developer.nvidia.com/blog/nvidia-turing-architecture-in-depth/) is a hardware-based ray tracing acceleration accelerate Bounding Volume Hierarchy (BVH) traversal and ray/triangle intersection testing (ray casting) functions. RT Cores perform visibility testing on behalf of threads running in the SM, allowing it to handle another vertex, pixel, and compute shading work.
 
 [Central Processing Unit (CPU)](https://en.wikipedia.org/wiki/Central_processing_unit) is a circuit that's composed of multiple cores that executes instructions comprising a computer program. The CPU performs basic arithmetic, logic, controlling, and input/output (I/O) operations specified by the instructions in the program. This is different from other external components such as main memory, I/O circuitry, and graphics processing units (GPUs).
 
 [AMD Accelerated Processing Unit (APU)](https://en.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit) a series of 64-bit microprocessors from Advanced Micro Devices (AMD), designed to act as a central processing unit (CPU) and graphics processing unit (GPU) on a single die.
 
 [Vector Processor](https://en.wikipedia.org/wiki/Vector_processor) is a central processing unit (CPU) that implements an instruction set where its instructions are designed to operate efficiently and effectively on large one-dimensional arrays of data called vectors.
-
-[Tensor Processing Unit (TPU)](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) is an AI accelerator application-specific integrated circuit (ASIC) developed by Google specifically for neural network machine learning, using Google's own [TensorFlow](https://www.tensorflow.org/) ML framework.
 
 [Digital Signal Processing (DSP)](https://en.wikipedia.org/wiki/Digital_signal_processing) is the application of a digital computer to modify an analog or digital signal. It's wadely used in many applications including video/audio/data communications and networking, medical imaging and computer vision, speech synthesis and coding, digital audio and video, and control of complex systems and industrial processes.
 
